@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dekstop_Dwi", "Dekstop_Dwi\Dekstop_Dwi.csproj", "{95A03027-159E-4B7B-A234-1720EE7A722C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A03027-159E-4B7B-A234-1720EE7A722C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A03027-159E-4B7B-A234-1720EE7A722C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A03027-159E-4B7B-A234-1720EE7A722C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A03027-159E-4B7B-A234-1720EE7A722C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC240689-2C5B-4FD7-8A00-E02A404A8D33}
+	EndGlobalSection
+EndGlobal
